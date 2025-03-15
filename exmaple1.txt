@@ -1,0 +1,39 @@
+Enter the number of floors: 8
+Enter the max number of passengers per trip: 6
+Enter the simulation duration (in minutes): 15
+
+Simulating passenger calls...
+Passenger called elevator from floor 4.
+Passenger called elevator from floor 5.
+Passenger called elevator from floor 1.
+Passenger called elevator from floor 3.
+Passenger called elevator from floor 3.
+Passenger called elevator from floor 2.
+Passenger called elevator from floor 5.
+Passenger called elevator from floor 3.
+Passenger called elevator from floor 7.
+Passenger called elevator from floor 6.
+Passenger called elevator from floor 8.
+Passenger called elevator from floor 3.
+Passenger called elevator from floor 6.
+Passenger called elevator from floor 3.
+Passenger called elevator from floor 8.
+Passenger called elevator from floor 4.
+Passenger called elevator from floor 1.
+Passenger called elevator from floor 2.
+
+Simulation completed.
+
+Analysis:
+Total time needed for all calls: 47 minutes
+Frequency of calls from each floor:
+Floor 1: 2 calls
+Floor 2: 2 calls
+Floor 3: 5 calls
+Floor 4: 2 calls
+Floor 5: 2 calls
+Floor 6: 2 calls
+Floor 7: 1 calls
+Floor 8: 2 calls
+
+Thank you for using Elevator Simulation!
